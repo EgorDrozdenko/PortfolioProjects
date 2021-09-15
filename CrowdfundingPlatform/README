@@ -7,3 +7,5 @@ Skills applied:
 •	Feature engineering
 •	Customizing tables in pandas
 •	Creating graphs in Plotly Express
+
+P.S. When I am viewing the notebook in nbviewer it won’t display choropleth maps and I couldn’t find a solution yet; the only way I see to have all the graphs displayed and interactive is to download and open the html-file with the same name, CrowdfundingPlatform.
