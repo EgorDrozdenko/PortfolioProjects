@@ -1,0 +1,9 @@
+This is a project based on descriptive data analysis and plotting some nice graphs. The dataset comes from the real world and was supplied by an online platform that connects startups with investors worldwide. Background information and description of the data are to be found in the Jupyter-Notebook “CrowdfundingPlatform”.
+
+Skills applied:
+•	Descriptive analysis
+•	Identifying and replacing missing values
+•	Optimizing memory usage
+•	Feature engineering
+•	Customizing tables in pandas
+•	Creating graphs in Plotly Express
