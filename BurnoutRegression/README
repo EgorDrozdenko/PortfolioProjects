@@ -1,0 +1,12 @@
+Regression modelling of Burnout score
+This project is an attempt of regression modelling of a metric score based on a combination of metric and categorical parameters. 
+The dataset has been taken from https://www.kaggle.com/blurredmachine/are-your-employees-burning-out.
+
+Skills applied:
+•	Descriptive analysis
+•	Optimizing memory usage
+•	Data preprocessing for machine learning (imputing missing values, scaling metric variables, encoding categorical variables)
+•	Fitting different models (Linear Regression, Decision Tree Regressor, Random Forest Regressor, Support Vector Regressor)
+•	Cross-validation of the models
+•	Fine-tuning of model parameters with Grid Search
+•	Application of the Voting Regressor
