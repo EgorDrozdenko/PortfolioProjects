@@ -7,5 +7,4 @@ Skills applied:
 •	Creating graphs in Plotly Express
 •	Creating basic callbacks, to ensure interactivity
 
-Update: a similar but slightly fancier dashboard created in Tableau is added: https://public.tableau.com/views/CoronaDash_16329539033020/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
-The same data has been taken from Our World in Data, however, fewer parameters-to-choose are left on the dashboard, in comparison to the Python version, as some graphs look awkward when reading data directly from the csv, in absence of the preprocessing stage.
+Update: I have added a similar but slightly fancier dashboard created in Tableau: https://public.tableau.com/views/CoronaDash_16329539033020/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
