@@ -1,4 +1,4 @@
-This is a dashboard which I have created in Python after making a brief acquaintance with Dash and Plotly Express. The data has been taken from https://github.com/owid/covid-19-data/tree/master/public/data. This dashboard might not seem very fancy but it takes a bit more code lines to create it than in Tableau or Power BI :) If you execute the code the dashboard will be run on your computer locally. If you want to just see the end result without running the code then please proceed directly to https://egordrozdenko.pythonanywhere.com.
+This is a dashboard which I have created in Python after making a brief acquaintance with Dash and Plotly Express. The data has been taken from https://github.com/owid/covid-19-data/tree/master/public/data. This dashboard might not look very fancy but it takes a bit more code lines to create it than in Tableau or Power BI :) If you execute the code the dashboard will be run on your computer locally. If you want to just see the end result without running the code then please proceed directly to https://egordrozdenko.pythonanywhere.com.
 
 Skills applied:
 •	Data preparation and slicing in pandas
