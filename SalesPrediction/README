@@ -1,0 +1,7 @@
+This project is an attempt to predict sales of cosmetic products for some next weeks, based on historic sales data. It is not finished yet: I plan to re-fine my forecasts with ARIMA and XGBoost and try some other methods, for example, LSTM. 
+
+Project goal: Prediction of sales for several next weeks, based on the two-years‘ history of sales
+Learning goal: Making acquaintance with some supervised machine learning method or methods which can deal with time-series data and are used for metric predictions of this kind (sales, consumption, demand, etc.)
+Dataset: a seemingly real data from a seller of cosmetics, care, and beauty products, taken from Kaggle
+Selected methods: ARIMA, XGBoost 
+Result: XGBoost wins by a large margin :) However, many things are still to try, including other methods.
